@@ -1,4 +1,5 @@
 #!/bin/bash
+#Walther Curo De La Cruz
 
 # Función para detectar si estamos en la red local y activar o desactivar Tailscale automáticamente
 detectar_red() {

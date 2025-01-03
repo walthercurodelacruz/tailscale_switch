@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=VPN Script
+Comment=Activar o desactivar Tailscale según la red
+Exec=/home/realdeb/vpn.sh
+Icon=utilities-terminal
+Terminal=true
+Type=Application
+
